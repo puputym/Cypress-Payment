@@ -1,0 +1,14 @@
+{
+  "name": "cypress-payment",
+  "version": "1.0.0",
+  "description": "Cypress payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Puput Yuniar Maulida",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
